@@ -1,5 +1,5 @@
 
-# **ChatApp using Kafka**  
+# **ChatApp using Kafka1**  
 
 ## **Overview**  
 This project demonstrates a simple **real-time chat system** built using **Apache Kafka**. The application follows a **publisher-subscriber** model, where one user sends messages (producer) and others receive them (consumer) in a decoupled and scalable manner.  
